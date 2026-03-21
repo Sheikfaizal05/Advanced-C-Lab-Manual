@@ -1,5 +1,5 @@
 ## Module 12
-## sANJAY RAHUL A 212224060234
+## SANJAY RAHUL A 212224060234
 ## EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 Aim:
 To write a C program to display stack elements using linked list.
