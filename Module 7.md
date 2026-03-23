@@ -1,5 +1,5 @@
 ## Module 7
-## SANJAY RAHUL A 212224060234
+## SHEIK FAIZAL S 212224240151
 ## EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 ### Aim:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
